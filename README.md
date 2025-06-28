@@ -10,7 +10,7 @@ A full-stack authentication project built with:
 ---
 
 ## 📁 Project Structure
-
+---
 project/
 ├── backend/
 │ ├── routes/
@@ -30,7 +30,7 @@ project/
 │ │ └── App.jsx
 │ └── vite.config.js
 
-
+---
 
 ## ⚙️ Setup Instructions
 
